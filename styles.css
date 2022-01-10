@@ -1,0 +1,33 @@
+body {
+  background-color: #FFEEAD;
+  text-align: center;
+  color: #96CEB4;
+}
+
+
+.container {
+  margin: auto;
+}
+
+h1 {
+  font-size: 8rem;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 white;
+}
+
+p {
+  font-family: "Roboto Mono", monospace;
+  font-size: 2rem;
+}
+
+.dice {
+  display: inline-block;
+}
+
+img {
+  width: 80%;
+}
+footer {
+  color: white;
+  font-size: 0.8rem;
+}
